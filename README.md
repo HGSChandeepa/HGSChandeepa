@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samin Chandeepa</h1>
-<h3 align="center">A frontend developer from Sri Lanka</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hgschandeepa&label=Profile%20views&color=0e75b6&style=flat" alt="hgschandeepa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hgschandeepa" alt="hgschandeepa" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">A frontend designer and developer</h3>
 
 - 🔭 I’m currently working on [Workout Apk](https://github.com/HGSChandeepa/)
 
@@ -21,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hgschandeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hgschandeepa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/adomic arts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adomic arts" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hgs-chandeepa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hgs-chandeepa/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc25afovsrhvtrli23d2rkfw/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc25afovsrhvtrli23d2rkfw/videos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
