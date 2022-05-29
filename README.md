@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Flutter, React Native, Web Animations**
 
-- 👯 I’m looking to collaborate on [CSS/HTML tutorials](https://github.com/HGSChandeepa/)
+- 👯 I’m conducting tutorials on [CSS/HTML tutorials](https://github.com/HGSChandeepa/)
 
-- 🤝 I’m looking for help with [Portfolio Website](https://github.com/HGSChandeepa/)
+- 🤝 I’m offering a free get source code [Portfolio Website](https://github.com/HGSChandeepa/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/HGSChandeepa/](https://github.com/HGSChandeepa/)
 
